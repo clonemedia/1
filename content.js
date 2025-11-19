@@ -328,7 +328,7 @@ window.SITE_DATA = {
       title: "BASİC PREMİUM MODEL #2",
 	  price: "15.000₺",
       thumbnail:
-        "https://i.imghippo.com/files/cutG7358s.png",
+        "https://i.imghippo.com/files/xFM2199Y.png",
       images: [
         "https://i.imghippo.com/files/Actl7097WtA.png",
 		"https://i.imghippo.com/files/WyIp2190Cmc.png",

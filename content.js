@@ -276,7 +276,7 @@ window.SITE_DATA = {
   projectsWeb: [
   
    {
-      id: "web2",
+      id: "web1",
       category: "Website Tasarımı",
       title: "BASİC PREMİUM MODEL #1",
 	  price: "15.000₺",
@@ -359,7 +359,7 @@ window.SITE_DATA = {
       }
     },
     {
-      id: "web1",
+      id: "web3",
       category: "Website Tasarımı",
       title: "BASİC PREMİUM MODEL #3",
 	  price: "10.000₺",
@@ -397,7 +397,7 @@ window.SITE_DATA = {
     },
 	
 		 {
-      id: "web3",
+      id: "web4",
       category: "Website Tasarımı",
       title: "BASİC PREMİUM MODEL #4 Black Yellow BASİC",
 	  price: "10.000₺",

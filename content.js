@@ -315,7 +315,7 @@ window.SITE_DATA = {
       id: "web2",
       category: "Website Tasarımı",
       title: "BASİC PREMİUM MODEL #2",
-	  price: "13.000₺",
+	  price: "15.000₺",
       thumbnail:
         "https://i.imghippo.com/files/fWr6827Qlk.png",
       images: [
@@ -360,3 +360,4 @@ window.SITE_DATA = {
     }
   ]
 };
+

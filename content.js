@@ -315,7 +315,7 @@ window.SITE_DATA = {
       id: "web2",
       category: "Website Tasarımı",
       title: "BASİC PREMİUM MODEL #2",
-	  price: "15.000₺",
+	  price: "13.000₺",
       thumbnail:
         "https://i.imghippo.com/files/fWr6827Qlk.png",
       images: [
@@ -357,7 +357,41 @@ window.SITE_DATA = {
         platform: "Web",
         status: "Hazır teslim / Özelleştirilebilir"
       }
+    },
+		 {
+      id: "web3",
+      category: "Website Tasarımı",
+      title: "BASİC PREMİUM MODEL #3 Black Yellow BASİC",
+	  price: "10.000₺",
+      thumbnail:
+        "https://i.imghippo.com/files/Rx1727FoI.png",
+      images: [
+        "https://i.imghippo.com/files/YmSP4356rM.png",
+		"https://i.imghippo.com/files/XBjl2343l.png",
+		"https://i.imghippo.com/files/mfoo7921bg.png",
+		"https://i.imghippo.com/files/WcY3167UA.png",
+		"https://i.imghippo.com/files/qtj7814eiY.png"
+		
+      ],
+      shortDescription:
+        "Neon efektli, animasyonlu, kişiye özel modern portfolio websitesi.",
+      previewUrl: "#",
+      tags: ["Neon UI", "Responsive", "Animasyon"],
+      highlight:
+        "Modern neon efektleri, GSAP animasyonları ve tam responsive mimariyle hazırlanan premium web tasarım.",
+      works: [
+        "Tam responsive modern layout",
+        "GSAP scroll animasyonları",
+        "Neon hover efektleri",
+        "SEO uyumlu kodlama",
+        "Çok hızlı yükleme optimizasyonu"
+      ],
+      tech: ["HTML", "TailwindCSS", "JavaScript", "GSAP"],
+      stats: {
+        time: "3-6 gün",
+        platform: "Web",
+        status: "Hazır teslim / Özelleştirilebilir"
+      }
     }
   ]
 };
-

@@ -72,6 +72,7 @@ class ProjectModal extends HTMLElement {
     const tech = p.tech || [];
     const stats = p.stats || {};
     const images = p.images || [];
+    const price = p.price || null; /* ⭐ FİYAT DESTEKLENDİ */
 
     this.shadowRoot.innerHTML = `
       <style>
@@ -164,6 +165,19 @@ class ProjectModal extends HTMLElement {
           color: #22d3ee;
         }
 
+        /* ⭐ FİYAT BADGE */
+        .price-badge {
+          display: inline-block;
+          margin-top: .35rem;
+          padding: .25rem .65rem;
+          background: rgba(255,0,122,0.12);
+          border: 1px solid rgba(255,0,122,0.4);
+          color: #ff4fa3;
+          border-radius: 10px;
+          font-size: .75rem;
+          font-weight: 600;
+        }
+
         .close-btn {
           width: 2rem;
           height: 2rem;
@@ -212,8 +226,16 @@ class ProjectModal extends HTMLElement {
           <div class="modal-header">
             <div>
               <div class="badge">${p.category}</div>
+
               <h2 style="margin-top:.4rem;font-size:1.2rem;font-weight:700;">${p.title}</h2>
-              <p>${p.highlight || p.shortDescription}</p>
+
+              ${
+                price
+                  ? `<div class="price-badge">${price}</div>`
+                  : ""
+              }
+
+              <p style="margin-top:.3rem;">${p.highlight || p.shortDescription}</p>
             </div>
 
             <button class="close-btn" data-close="true">

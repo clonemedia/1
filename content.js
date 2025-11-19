@@ -66,6 +66,7 @@ window.SITE_DATA = {
       id: "project7",
       category: "Telegram Bot",
       title: "Bonus Kod Paylaşım Botu",
+	  price: "6.000₺",
       thumbnail:
         "https://imagedelivery.net/_IP0fEMP4F-W0FKGt0DEHg/b159d573-97e2-4598-a3bc-a6002a315f00/public",
       images: [
@@ -98,6 +99,7 @@ window.SITE_DATA = {
       id: "project11",
       category: "Telegram Bot",
       title: "Özel Yüksek Oran Botu",
+	  price: "5.000₺",
       thumbnail:
         "https://img.piri.net/piri/upload/3/2025/11/18/9b482cf9-dmdb8k6zjjjda5occxex6r.webp",
       shortDescription:
@@ -131,6 +133,7 @@ window.SITE_DATA = {
       id: "project8",
       category: "Telegram Bot",
       title: "Nakit İade (Cashback) Botu",
+	  price: "3.000₺",
       thumbnail:
         "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&w=900&q=80",
       shortDescription:
@@ -158,6 +161,7 @@ window.SITE_DATA = {
       id: "project9",
       category: "Telegram Bot",
       title: "Otomatik Şikayet Çekme Botu",
+	  price: "6.000₺",
       thumbnail:
         "https://www.datocms-assets.com/64859/1654535366-musteri-sikayetleri-nasil-geri-cevrilir.jpg?auto=format",
       shortDescription:
@@ -186,6 +190,7 @@ window.SITE_DATA = {
       id: "project10",
       category: "Özel Geliştirme",
       title: "Özel Telegram Bot Çözümleri",
+	  price: "5.000₺",
       thumbnail:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5rGyNF7xBLGKlWsLyNIL7Lzy0aiJaajsAtA&s",
       shortDescription:
@@ -273,6 +278,7 @@ window.SITE_DATA = {
       id: "web1",
       category: "Website Tasarımı",
       title: "BASİC PREMİUM MODEL #1",
+	  price: "10.000₺",
       thumbnail:
         "https://i.ibb.co/xKL8Rt0S/resim-2025-11-19-073526103.png",
       images: [
@@ -309,6 +315,7 @@ window.SITE_DATA = {
       id: "web2",
       category: "Website Tasarımı",
       title: "BASİC PREMİUM MODEL #2",
+	  price: "13.000₺",
       thumbnail:
         "https://i.imghippo.com/files/fWr6827Qlk.png",
       images: [

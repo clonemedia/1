@@ -304,6 +304,52 @@ window.SITE_DATA = {
         platform: "Web",
         status: "Hazır teslim / Özelleştirilebilir"
       }
+    },
+	 {
+      id: "web2",
+      category: "Website Tasarımı",
+      title: "BASİC PREMİUM MODEL #2",
+      thumbnail:
+        "https://i.imgyukle.com/2025/11/19/CAiLOc.png",
+      images: [
+        "https://i.imgyukle.com/2025/11/19/CAiOAe.png",
+		"https://i.imgyukle.com/2025/11/19/CAiXTN.png",
+		"https://i.imgyukle.com/2025/11/19/CAiNUR.png",
+		"https://i.imgyukle.com/2025/11/19/CAimUp.png",
+		"https://i.imgyukle.com/2025/11/19/CAiiCY.png",
+		"https://i.imgyukle.com/2025/11/19/CAi1TM.png",
+		"https://i.imgyukle.com/2025/11/19/CAivdy.png",
+		"https://i.imgyukle.com/2025/11/19/CAiGO6.png",
+		"https://i.imgyukle.com/2025/11/19/CAisi0.png",
+		"https://i.imgyukle.com/2025/11/19/CAiBtv.png",
+		"https://i.imgyukle.com/2025/11/19/CAiDVx.png",
+		"https://i.imgyukle.com/2025/11/19/CAiKvh.png",
+		"https://i.imgyukle.com/2025/11/19/CAiq9n.png",
+		"https://i.imgyukle.com/2025/11/19/CAiUC8.png",
+		"https://i.imgyukle.com/2025/11/19/CAiWsj.png",
+		"https://i.imgyukle.com/2025/11/19/CAieFo.png",
+		"https://i.imgyukle.com/2025/11/19/CAi8VU.png"
+		
+      ],
+      shortDescription:
+        "Neon efektli, animasyonlu, kişiye özel modern portfolio websitesi.",
+      previewUrl: "#",
+      tags: ["Neon UI", "Responsive", "Animasyon"],
+      highlight:
+        "Modern neon efektleri, GSAP animasyonları ve tam responsive mimariyle hazırlanan premium web tasarım.",
+      works: [
+        "Tam responsive modern layout",
+        "GSAP scroll animasyonları",
+        "Neon hover efektleri",
+        "SEO uyumlu kodlama",
+        "Çok hızlı yükleme optimizasyonu"
+      ],
+      tech: ["HTML", "TailwindCSS", "JavaScript", "GSAP"],
+      stats: {
+        time: "3-6 gün",
+        platform: "Web",
+        status: "Hazır teslim / Özelleştirilebilir"
+      }
     }
   ]
 };

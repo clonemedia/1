@@ -310,7 +310,7 @@ window.SITE_DATA = {
       category: "Website Tasarımı",
       title: "BASİC PREMİUM MODEL #2",
       thumbnail:
-        "https://i.imgyukle.com/2025/11/19/CAiLOc.png",
+        "https://i.imghippo.com/files/fWr6827Qlk.png",
       images: [
         "https://i.imgyukle.com/2025/11/19/CAiOAe.png",
 		"https://i.imgyukle.com/2025/11/19/CAiXTN.png",

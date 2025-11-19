@@ -322,10 +322,46 @@ window.SITE_DATA = {
         status: "Hazır teslim / Özelleştirilebilir"
       }
     },
+	{
+      id: "web2",
+      category: "Website Tasarımı",
+      title: "BASİC PREMİUM MODEL #2",
+	  price: "15.000₺",
+      thumbnail:
+        "https://i.imghippo.com/files/cutG7358s.png",
+      images: [
+        "https://i.imghippo.com/files/Actl7097WtA.png",
+		"https://i.imghippo.com/files/WyIp2190Cmc.png",
+		"https://i.imghippo.com/files/hmm9932M.png",
+		"https://i.imghippo.com/files/Xmaz6608XQ.png",
+		"https://i.imghippo.com/files/Wrs9869Rr.png",
+		"https://i.imghippo.com/files/BWq2055rn.png"
+		
+      ],
+      shortDescription:
+        "Neon efektli, animasyonlu, kişiye özel modern portfolio websitesi.",
+      previewUrl: "#",
+      tags: ["Neon UI", "Responsive", "Animasyon"],
+      highlight:
+        "Modern neon efektleri, GSAP animasyonları ve tam responsive mimariyle hazırlanan premium web tasarım.",
+      works: [
+        "Tam responsive modern layout",
+        "GSAP scroll animasyonları",
+        "Neon hover efektleri",
+        "SEO uyumlu kodlama",
+        "Çok hızlı yükleme optimizasyonu"
+      ],
+      tech: ["HTML", "TailwindCSS", "JavaScript", "GSAP"],
+      stats: {
+        time: "3-6 gün",
+        platform: "Web",
+        status: "Hazır teslim / Özelleştirilebilir"
+      }
+    },
     {
       id: "web1",
       category: "Website Tasarımı",
-      title: "BASİC PREMİUM MODEL #2",
+      title: "BASİC PREMİUM MODEL #3",
 	  price: "10.000₺",
       thumbnail:
         "https://i.ibb.co/xKL8Rt0S/resim-2025-11-19-073526103.png",
@@ -363,7 +399,7 @@ window.SITE_DATA = {
 		 {
       id: "web3",
       category: "Website Tasarımı",
-      title: "BASİC PREMİUM MODEL #3 Black Yellow BASİC",
+      title: "BASİC PREMİUM MODEL #4 Black Yellow BASİC",
 	  price: "10.000₺",
       thumbnail:
         "https://i.imghippo.com/files/Rx1727FoI.png",
